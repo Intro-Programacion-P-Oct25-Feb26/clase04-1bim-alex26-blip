@@ -28,5 +28,5 @@ public class Ejemplo05 {
                 "\n"+ nacimiento); */
         System.out.println(nombreEstudiante+"\t"+apellidoEstudiante);   
         System.out.println(nombreEstudiante+"\n\t"+apellidoEstudiante);   
-    }
+    } //el \t\ hace 4 espacios \n\ hace un salto de linea 
 }
