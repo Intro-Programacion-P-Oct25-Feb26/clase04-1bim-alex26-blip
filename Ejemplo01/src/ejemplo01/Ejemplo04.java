@@ -18,5 +18,14 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // el print imprime todo unido todas las variables y el println lo escribe separada en otra linea
+        System.out.println("-----------");
+        System.out.println(nombreEstudiante + " ");
+        System.out.println(apellidoEstudiante + " ");
+        System.out.println(nacimiento + " ");
+        System.out.println(nombreEstudiante + " ");
+    
     }
+    
+    
 }
