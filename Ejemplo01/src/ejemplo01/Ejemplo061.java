@@ -34,6 +34,13 @@ public class Ejemplo061 {
         //        apellidoEstudiante, nacimiento);
         System.out.printf("Nombre:\n\t%s\nApellido:\t%s",nombre,apellido);
         
-     
+     // nombre = "Alex Bravo";
+        // apellido = "Bravo Celi";
+        //int nacimiento = 2006;
+        // direccion = "san cayetano bajo";
+        // universidad = "utpl";
+        //ciclo = "primer cliclo";
+        // asignatura = "introduccion a la programacion";
+        //paralelo = "a";
     }
 }
