@@ -16,7 +16,7 @@ public class Ejemplo1 {
 
     public static void main(String[] args) {
         // Ingreso de valores por teclado
-        Scanner entrada = new Scanner(System.in);
+        Scanner entrada = new Scanner(System.in); //new scaner te permite recibir cadenas 
         entrada.useLocale(Locale.US); // para ingresar los decimales con 
                                         // punto
                                         // no con coma
